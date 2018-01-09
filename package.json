@@ -1,0 +1,17 @@
+{
+  "name": "tplchange",
+  "version": "1.0.0",
+  "description": "change php smarty to node nunjucks",
+  "main": "index.js",
+  "bin": {
+    "smtonj": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangyuang",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
